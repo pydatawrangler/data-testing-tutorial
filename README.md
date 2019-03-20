@@ -1,5 +1,7 @@
 # Best Testing Practices for Data Science
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/data-testing-tutorial/master)
+
 A short tutorial for data scientists on how to write tests for your code and your data. Before the tutorial, please read through this README file, for it contains a lot of useful information that will help you best prepare for the tutorial.
 
 ## How to use this repository
